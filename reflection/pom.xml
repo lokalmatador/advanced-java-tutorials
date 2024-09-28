@@ -15,11 +15,11 @@
 	</properties>
 	
 	<dependencies>
-	
+		
 		<dependency>
 			<groupId>org.burningwave</groupId>
 			<artifactId>core</artifactId>
-			<version>12.12.4</version>
+			<version>12.65.2</version>
 		</dependency>
 
 	</dependencies>
